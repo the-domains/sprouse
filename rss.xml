@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sprouse]]></title>
+        <description><![CDATA[sprouse]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 16:48:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get to Know Me. Morgan Sprouse]]></title>
+            <description><![CDATA[<article><h1>Get to Know Me. Morgan Sprouse</h1><p> I play music which means I play the guitar, the bass, keys, and I think I can hold a beat. I'm also a big media fanatic, which means I like to make videos, shoot photos, and talk about everything I don't like. You can consider my hobby to be my atsprouse.vsco.co grid. The last thing I am is a marketer. I'm a senior marketing student at Oral Roberts University. And I'm very good. I lead my team to get "A"'s every time and my marketing professors love me. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7da160903c5340686dc820308175673445df57ac.jpg"></article>]]></description>
+            <link>undefinedget-to-know-me-morgan-sprouse/index.html</link>
+            <guid isPermaLink="false">b80911bb-460e-4c71-868c-10869912a268</guid>
+            <pubDate>Mon, 07 Mar 2016 16:47:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
